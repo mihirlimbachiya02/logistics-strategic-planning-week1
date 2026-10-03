@@ -27,5 +27,5 @@ The end-to-end analytics lifecycle is structured into five phases:
 - Predictive Modeling & Optimization: Train regression models for ETA forecasting and run routing algorithms for path generation.
 - Evaluation & Deployment: Validate using Mean Absolute Error (MAE) and deploy as an automated service pipeline.
 
-6. CONCLUSION & BUSINESS IMPACT
+5. CONCLUSION & BUSINESS IMPACT
 By shifting from manual oversight to an algorithmic, predictive logistics strategy, the enterprise can drastically minimize fuel overheads, reduce fleet wear-and-tear, and dramatically improve On-Time Delivery Rates (OTDR), resulting in higher customer retention and optimized supply chain efficiency.
